@@ -9,6 +9,7 @@
 </head>
 <body>
 <header>
+<img src="https://example.com/image.jpg](https://images.pexels.com/photos/1666067/pexels-photo-1666067.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2">
 <h1>Teachers' Tote Bag</h1>
 <p>A web-based resource that would work two ways: 
 <li>As a Repository of resources for Social Science Teachers’ Professional Learning.</li> 
