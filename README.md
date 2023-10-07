@@ -1,53 +1,59 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Teachers' Tote Bag</title>
+  
+    
+
 <link rel="stylesheet" href="style.css">
+ 
 </head>
 <body>
 <header>
 <h1>Teachers' Tote Bag</h1>
-<p>A resource for social science teachers</p>
+<p>A web-based resource that would work two ways: 
+<li>As a Repository of resources for Social Science Teachers’ Professional Learning.</li> 
+<li>As a Forum (or social media) for building a Community of Social Science teachers and enthusiasts.</li>
+</p>
 </header>
 <main>
-<div class="resources">
-<h2>Resources</h2>
+<div class="repository">
+<h2>Repository</h2>
 <ul>
-<li><a href="/resources/History">History</a></li>
+<li><a href="/repository/History">History</a></li>
   <ul>
-<li><a href="/resources/History">Lesson Plan</a></li>
-<li><a href="/resources/History">Assessments</a></li>
-<li><a href="/resources/History">TLMs</a></li>
-<li><a href="/resources/History">Additional Resources</a></li>
+<li><a href="/repository/History">Lesson Plan</a></li>
+<li><a href="/repository/History">Assessments</a></li>
+<li><a href="/repository/History">TLMs</a></li>
+<li><a href="/repository/History">Additional Resources</a></li>
   </ul>
-<li><a href="/resources/Geography">Geography</a></li>
+<li><a href="/repository/Geography">Geography</a></li>
   <ul>
-<li><a href="/resources/Geography">Lesson Plan</a></li>
-<li><a href="/resources/Geography">Assessments</a></li>
-<li><a href="/resources/Geography">TLMs</a></li>
-<li><a href="/resources/Geography">Additional Resources</a></li>
+<li><a href="/repository/Geography">Lesson Plan</a></li>
+<li><a href="/repository/Geography">Assessments</a></li>
+<li><a href="/repository/Geography">TLMs</a></li>
+<li><a href="/repository/Geography">Additional Resources</a></li>
   </ul>
-<li><a href="/resources/Social & Political Life"> Social and Political Life</a></li>
+<li><a href="/repository/Social & Political Life"> Social and Political Life</a></li>
   <ul>
-<li><a href="/resources/Social & Political Life">Lesson Plan</a></li>
-<li><a href="/resources/Social & Political Life">Assessments</a></li>
-<li><a href="/resources/Social & Political Life">TLMs</a></li>
-<li><a href="/resources/Social & Political Life">Additional Resources</a></li>
+<li><a href="/repository/Social & Political Life">Lesson Plan</a></li>
+<li><a href="/repository/Social & Political Life">Assessments</a></li>
+<li><a href="/repository/Social & Political Life">TLMs</a></li>
+<li><a href="/repository/Social & Political Life">Additional Resources</a></li>
   </ul>
-<li><a href="/resources/Economics">Economics</a></li>
+<li><a href="/repository/Economics">Economics</a></li>
   <ul>
-<li><a href="/resources/Economics">Lesson Plan</a></li>
-<li><a href="/resources/Economics">Assessments</a></li>
-<li><a href="/resources/Economics">TLMs</a></li>
-<li><a href="/resources/Economics">Additional Resources</a></li>
+<li><a href="/repository/Economics">Lesson Plan</a></li>
+<li><a href="/repository/Economics">Assessments</a></li>
+<li><a href="/repository/Economics">TLMs</a></li>
+<li><a href="/repository/Economics">Additional Resources</a></li>
   </ul>
 </ul>
 </div>
-<div class="community">
-<h2>Community</h2>
+<div class="forum">
+<h2>Forum</h2>
 <ul>
-<li><a href="/community/discussions">Discussions</a></li>
-<li><a href="/community/members">Members</a></li>
+<li><a href="/forum/discussions">Discussions</a></li>
+<li><a href="/forum/members">Members</a></li>
 </ul>
 </div>
 </main>
