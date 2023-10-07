@@ -13,10 +13,10 @@
 <div class="resources">
 <h2>Resources</h2>
 <ul>
-<li><a href="/resources/lesson-plans">Lesson Plans</a></li>
-<li><a href="/resources/ict-resources">ICT Resources</a></li>
-<li><a href="/resources/assessment-resources">Assessment Resources</a></li>
-<li><a href="/resources/worksheets">Worksheets</a></li>
+<li><a href="/resources/History">History</a></li>
+<li><a href="/resources/Geography">Geography</a></li>
+<li><a href="/resources/Social & Political Life"> Social and Political Life</a></li>
+<li><a href="/resources/Economics">Economics</a></li>
 </ul>
 </div>
 <div class="community">
